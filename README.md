@@ -1,15 +1,15 @@
-#Spider-Man 🕷️
-##**Overview**
+# Spider-Man 🕷️
+## **Overview**
 > *Spider-Man*, also known as Peter Parker, is a fictional superhero appearing in Marvel Comics, created by Stan Lee and Steve Ditko. His story revolves around the challenges of balancing a normal life with the responsibilities of being a superhero.
 
 ---
 
-##**Key Features of the Character**
+## **Key Features of the Character**
 - **Real Name:** Peter Parker
 
 ---
 
-##**Powers:**
+## **Powers:**
 
 - **Superhuman strength and agility**
 - **Ability to cling to most surfaces**
@@ -18,14 +18,14 @@
 
 ---
 
-##**Signature Quote:**
+## **Signature Quote:**
 
 - *"With great power comes great responsibility."*
 
 ---
 
-##**Notable Movies**
-##**Here are some iconic Spider-Man movies:**
+## **Notable Movies**
+## **Here are some iconic Spider-Man movies:**
 
 > *Sam Raimi Trilogy:*
 
@@ -54,12 +54,12 @@
 
 ---
 
-##**Why is Spider-Man so Popular?**
+## **Why is Spider-Man so Popular?**
 - **Relatable struggles of being a teenager.**
 - **Balances humor, action, and emotional depth.**
 - **Groundbreaking special effects in movies.**
 - **Constant reinvention through comics, films, and animated series.**
-##**Fun Fact**
+## **Fun Fact**
 - **Did you know?**
 - **Stan Lee initially thought the idea of a teenage superhero with spider-like powers was too weird, but it became one of Marvel's biggest successes! 🕸️**
 
